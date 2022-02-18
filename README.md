@@ -1,2 +1,2 @@
 # SafeWebDev
-All the code relative to this subject
+All the code and projects relative to this subject
