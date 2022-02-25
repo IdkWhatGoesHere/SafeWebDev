@@ -1,2 +1,2 @@
 # SafeWebDev
-All the code and projects relative to this subject
+El código y respositorio de proyecto para la primera práctica
